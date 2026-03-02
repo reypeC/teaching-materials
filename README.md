@@ -1,6 +1,6 @@
 # Teaching Materials
 
-This repository contains lecture slides and teaching materials (in French) written in LaTeX Beamer.
+This repository contains lecture slides and teaching materials (in French).
 
 Materials are organized by curriculum.
 
